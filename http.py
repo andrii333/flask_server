@@ -12,4 +12,4 @@ def test_1():
 
 
 if __name__=='__main__':
-	app.run(debug=False,host="188.166.80.84", port=8080)
+	app.run(debug=False,host="localhost", port=8080)
